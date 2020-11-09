@@ -1,2 +1,2 @@
-# rpi-config-helper
-Raspberry PI configuration helper
+# rpios-config-helper
+Visit https://github.com/gloug/rpios-config-helper/wiki!
